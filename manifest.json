@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "SMaaFS PoC",
+  "version": "0.2",
+  "description": "Educational Proof of Concept Tool: Social Media as a File System.",
+  "permissions": ["storage", "activeTab", "scripting"],
+  "host_permissions": ["*://*.twitter.com/*"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.twitter.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
