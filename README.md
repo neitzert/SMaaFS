@@ -4,7 +4,9 @@ README v 0.2
 A technical proof of concept demonstrating how encrypted data, including files and filesystems can be stored and retrieved via social media platforms.
 
 ## 📌 Overview
-This repository contains source code for a browser extension that explores an unconventional approach to distributed, stateless encrypted storage. The system encodes and fragments encrypted data, embedding it within social media posts, which can later be retrieved and decrypted using the same extension.
+This repository contains source code for a Chrome browser extension that explores an unconventional approach to distributed, stateless encrypted storage.
+
+The system encodes and fragments encrypted data, embedding it within social media posts, which can later be retrieved and decrypted using the same extension.
 
 Encryption: AES-GCM with a passphrase-derived key (PBKDF2).
 
@@ -13,6 +15,9 @@ Decryption: Reads encrypted messages stored on social media and reconstructs the
 Stateless: No servers, no backend—data exists only in social media posts.
 
 Minimal metadata: Uses randomized salts and IVs, avoiding sequential markers.
+
+## Installation and Use
+Due to the litegous nature of social media organizations, we are not going to tell you how to install or use this.  You're smart you can figure it out for yourself.
 
 
 ## 🔍 How It Works
