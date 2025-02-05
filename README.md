@@ -90,7 +90,7 @@ No Key Recovery. If a passphrase is lost, decryption is impossible.
   - No API integration.
 
   - No support for ATProto or Mastodon yet.
-  - 
+    
 🔹 Phase 1: Hybrid Mode (Twitter + ATProto)
 
   - Add ATProto backend to allow posting encrypted data to Bluesky.
@@ -98,7 +98,7 @@ No Key Recovery. If a passphrase is lost, decryption is impossible.
   - Users can choose Twitter/X or ATProto as their storage method.
 
   - Still requires manual Twitter/X copy-n-pasta for encrypted posts.
-  - 
+    
 🔹 Phase 2: Full ATProto & Mastodon Support
 
   - Expand full support for ATProto’s decentralized storage.
