@@ -80,7 +80,7 @@ Limited Storage Capacity. Due to platform constraints, this system is impractica
 
 No Key Recovery. If a passphrase is lost, decryption is impossible.
 
-🛠 Future Roadmap: Transitioning to ATProto & Fediverse
+## 🛠 Future Roadmap: Transitioning to ATProto & Fediverse
 🔹 Phase 0: Twitter-Only (Where We Are Now)
 
   - Only supports Twitter/X via JavaScript.
