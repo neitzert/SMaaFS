@@ -8,14 +8,6 @@ This repository contains source code for a Chrome browser extension that explore
 
 The system encodes and fragments encrypted data, embedding it within social media posts, which can later be retrieved and decrypted using the same extension.
 
-Encryption: AES-GCM with a passphrase-derived key (PBKDF2).
-
-Decryption: Reads encrypted messages stored on social media and reconstructs the original content.
-
-Stateless: No servers, no backend—data exists only in social media posts.
-
-Minimal metadata: Uses randomized salts and IVs, avoiding sequential markers.
-
 ## Current Architecture
 Encryption: AES-GCM with a passphrase-derived key (PBKDF2).
 
