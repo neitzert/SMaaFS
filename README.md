@@ -120,9 +120,12 @@ This software is provided strictly for educational and research purposes only.
 The authors convey, express, and declare absolutely NO warranties, promises, or guarantees—including but not limited to functionality, usability, security, or even its continued existence.
 
 ✅ The authors provide no guarantees regarding its legality, usability, security, longevity, or even legibility.
-✅ By using this software beyond simply reading it, you assume full and sole responsibility for any and all outcomes.
+
+✅ By using this software beyond simply reading it, you assume full and sole responsibility for any and all outcomes resultant from your use.
+
 ✅ USE THIS AT YOUR OWN RISK.
-✅ The authors are not responsible for any damages, losses, or legal consequences.
+
+✅ The authors are not responsible for any damages, losses, or legal consequences for this educational thought exercise.
 
 By even reading this page you agree to indemnify the authors against any and all claims, disputes, or liabilities resulting from things you may do with ideas espoused, diagramed, or documented here. 
 
