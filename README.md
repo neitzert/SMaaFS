@@ -115,7 +115,7 @@ No Key Recovery. If a passphrase is lost, decryption is impossible.
 
   - Users will have full control over their encrypted storage in the Fediverse & ATProto.
 
-# **⚠️ 🚨 ⚖️ Legal Disclaimer
+# **⚠️ 🚨 ⚖️ Legal Disclaimer **
 This software is provided strictly for educational and research purposes only.
 The authors convey, express, and declare absolutely NO warranties, promises, or guarantees—including but not limited to functionality, usability, security, or even its continued existence.
 
